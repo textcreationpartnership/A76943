@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life of Sr Thomas Bodley, the honourable founder of the publique library in the Vniversity of Oxford. / VVritten by himselfe.</title>
+            <author>Bodley, Thomas, Sir, 1545-1613.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76943</idno>
+            <idno type="STC">Wing B3392</idno>
+            <idno type="STC">Thomason E391_14</idno>
+            <idno type="STC">ESTC R201556</idno>
+            <idno type="EEBO-CITATION">99862055</idno>
+            <idno type="PROQUEST">99862055</idno>
+            <idno type="VID">114204</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76943)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114204)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E391[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life of Sr Thomas Bodley, the honourable founder of the publique library in the Vniversity of Oxford. / VVritten by himselfe.</title>
+                  <author>Bodley, Thomas, Sir, 1545-1613.</author>
+               </titleStmt>
+               <extent>[4], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hall printer to the Universitie.,</publisher>
+                  <pubPlace>Oxford, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bodley, Thomas, --  Sir, 1545-1613 --  Early works to 1800.</term>
+               <term>Bodleian Library --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114204:1" rendition="simple:additions"/>
+            <p>THE LIFE OF S<hi rend="sup">r</hi> THOMAS BODLEY, THE HONOVRABLE FOVNDER OF THE PVBLIQVE LIBRARY in the VNIVERSITY of <hi>OXFORD.</hi>
+            </p>
+            <p>VVritten by Himſelfe.</p>
+            <figure>
+               <head>ACADEMIA OXONIENSIS</head>
+               <figDesc>printer's device consisting of the blazon of Oxford University</figDesc>
+            </figure>
+            <p>
+               <add>June 9<hi rend="sup">th</hi>
+               </add> 
+               <hi>OXFORD,</hi> Printed by HENRY HALL Printer to the UNIVERSITIE. 1647.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:114204:2"/>
+            <pb facs="tcp:114204:2"/>
+            <head>To the READER.</head>
+            <p>
+               <seg rend="decorInit">W</seg>HEN the Great Reſtorer of Learning, our Munificent Benefactour, Sir <hi>THO<g ref="char:EOLhyphen"/>MAS BODLEY,</hi> made the happy Ex<g ref="char:EOLhyphen"/>change of the troubles of this life, with the Glories of a better; The Vni<g ref="char:EOLhyphen"/>verſity, according to the greatneſſe of his merits, and their loſſe, in ſolemne griefe and ſadneſſe, attended at his Obſequies. But leſt the uncha<g ref="char:EOLhyphen"/>ritable cenſure of the world ſhould apprehend our thankfulneſſe buried in the ſame grave with him, and cold as his dead aſhes, in that we pay no after tribute to ſo engaging a deſert; VVe bring to the Altar of Eternity that part of him which yet, and ever muſt ſurvive. A Monument freed from the lawes of time and ruine; Supported with the vigour of that name, which hath a ſeminall ſtrength within it ſelfe, to make whole volumes live. But leſt the judging and ſeverer eye, viewing the nakedneſſe of this relation, may thence despiſe the pooreneſse of our endeavour: That I may ſpeake the worke above all ſcorne, above all praiſe; it was his Owne. Nor durſt we call that draught in queſtion, which felt the hand of ſo exact a Maſter; but with awe lookt on it, as on the fabrique of an ancient Temple, where the ruine furthers our Devotion; and gaudy ornaments doe but prophane the
+<pb facs="tcp:114204:3"/>ſad religion of the place. 'Tis true, it ſavours not the language of our age, that hath the Art to murther with a ſmile, and fold a curſe within a prayer, but ſpeakes the Rhetoricke of that better world, where vertue was the garbe, and truth the complement, Thoſe action are of low and empty worth, that can ſhine onely when the varniſh of our words doth gild them over. The true Diamond ſparkles in its rocke, and in deſpight of darkeneſſe makes a day. Here then you ſhall behold Actions with the ſame integrity ſet downe, as they were firſt perform'd. A Hiſtory de<g ref="char:EOLhyphen"/>ſcrib'd, as it was liv'd. A Councellour that admitted ſtill Religion to the Cabinet: and in his active aimes had a deſigne on Heaven. A ſpirit of that height, that happineſſe, as in a private fortune to out-doe the fam'd magnificence of mighty Princes: whil'ſt his ſingle worke clouds the proud fame of the <hi>Aegyptian Library;</hi> and ſhames the tedious growth o'th weal<g ref="char:EOLhyphen"/>thy <hi>Vatican.</hi> I know how hard a taske 'twill be to perſwade any to copy out from this faire patterne; how<g ref="char:EOLhyphen"/>ever we cannot yet ſo farre deſpaire of ingenuity, as not to expect even from th'unconcern'd diſintereſſed Reader, a cleare eſteeme and juſt reſentment of it. If we gaine but this, we ſhall in part reſt ſatisfied: In an age ſo wholly loſt to vice, conceiving it a great de<g ref="char:EOLhyphen"/>gree of vertue to confeſse the luſtre of that good which our perverſe endeavours ſtill avoyde.</p>
+         </div>
+      </front>
+      <body>
+         <div type="autobiography">
+            <pb facs="tcp:114204:3"/>
+            <head>THE LIFE OF SIR <hi>THO<g ref="char:EOLhyphen"/>MAS BODLEY.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg> Was borne at <hi>Exeter</hi> in <hi>De<g ref="char:EOLhyphen"/>vonſhire</hi> the ſecond of <hi>March,</hi> 1544. deſcended both by Father and Mother of wor<g ref="char:EOLhyphen"/>ſhipfull parentage. By my Fa<g ref="char:EOLhyphen"/>thers ſide, from an antient Family of <hi>Bodley,</hi> or <hi>Bodleigh</hi> of <hi>Dunſcombe</hi> by <hi>Crediton;</hi> and by my Mother, from <hi>Robert H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne</hi> Eſquire, of <hi>Otterey Saint Mary,</hi> nine miles from <hi>Exeter;</hi> my Father in the time of Queen <hi>Mary,</hi> being noted and knowne to be an ene<g ref="char:EOLhyphen"/>my to Popery, was ſo cruelly threatned, and ſo narrowly obſerved, by thoſe that maliced his Religion, that for the ſafeguard of him<g ref="char:EOLhyphen"/>ſelfe and my Mother, who was wholly affe<g ref="char:EOLhyphen"/>cted as my Father, he knew no way ſo ſecure, as to fly into <hi>Germany:</hi> where after a while
+<pb n="2" facs="tcp:114204:4"/>he found meanes to call over my Mother, with all his children and family, whom he ſetled for a time at <hi>VVeſell</hi> in <hi>Cleveland,</hi> (for there, as then, were many Engliſh, which had left their Country for their conſcience, and with quietneſſe enjoyed their meetings and preachings;) and from thence we removed to the Towne of <hi>Franckfort,</hi> where was in like ſort another Engliſh Congregation. How<g ref="char:EOLhyphen"/>beit we made no long tarriance in either of thoſe two Townes, for that my Father had reſolved to fixe his abode in the City of <hi>Gene<g ref="char:EOLhyphen"/>va,</hi> where, as farre as I remember, the Engliſh Church conſiſted of ſome hundred perſons. I was at that time of twelve yeares age, but through my Fathers coſt and care, ſufficiently inſtructed to become an Auditour of <hi>Cheva<g ref="char:EOLhyphen"/>lerius</hi> in Hebrew, of <hi>Berealdus</hi> in Greeke, of <hi>Calvin</hi> and <hi>Beza</hi> in Divinity, and of ſome o<g ref="char:EOLhyphen"/>ther Profeſſours in that Vniverſity, (which was newly then erected) beſides my dome<g ref="char:EOLhyphen"/>ſticall teachers, in the houſe of <hi>Philibertus Sa<g ref="char:EOLhyphen"/>racenus,</hi> a famous Phyſitian in that City, with whom I was boarded: where <hi>Robertus Con<g ref="char:EOLhyphen"/>ſtantinus,</hi> that made the Greeke <hi>Lexicon,</hi> read <hi>Homer</hi> unto me. Thus I remained there two
+<pb n="3" facs="tcp:114204:4"/>yeares and more, untill ſuch time as our Nati<g ref="char:EOLhyphen"/>on was advertiſed of the death of Queene <hi>Ma<g ref="char:EOLhyphen"/>ry,</hi> &amp; ſucceſsion of <hi>Elizabeth,</hi> with the change of Religion, which cauſed my Father to ha<g ref="char:EOLhyphen"/>ſten into <hi>England,</hi> where he came with my Mother, and with all their family, within the firſt of the Queene, and ſetled their dwelling in the City of <hi>London. It</hi> was not long after, <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> was ſent away from thence to the Vni<g ref="char:EOLhyphen"/>verſity of <hi>Oxford,</hi> recommended to the teach<g ref="char:EOLhyphen"/>ing and tuition of Doctour <hi>Humfrey,</hi> who was ſhortly after choſen the chiefe Reader in Divinity, and Preſident of <hi>Magdalen</hi> Col<g ref="char:EOLhyphen"/>ledge; there <hi>I</hi> followed my ſtudies till I tooke the degree of Batchelour of Arts, which was in the yeare, 1563. within which yeare I was alſo choſen Probationer of <hi>Merton</hi> Colledge, and the next yeare enſuing admitted Fellow. Afterwards, to wit in the yeare, 1565. by ſpe<g ref="char:EOLhyphen"/>ciall perſwaſion of ſome of my fellowes, and for my private exerciſe, I undertooke the pub<g ref="char:EOLhyphen"/>lique reading of a Greeke lecture, in the ſame Colledge Hall, without requiring or expe<g ref="char:EOLhyphen"/>cting any ſtipend for it; Nevertheleſſe it plea<g ref="char:EOLhyphen"/>ſed the Fellowſhip of their owne accord to allow me ſoone after foure markes by the
+<pb n="4" facs="tcp:114204:5"/>yeare, and ever ſince to continue that Lecture to the Colledge. In the yeare of our Lord 1566. I proceeded Maſter of Arts, and read forth at yeare in the Schoole ſtreets Naturall Philoſophy; after which time, within leſſe then three yeares ſpace, I was wonne by in<g ref="char:EOLhyphen"/>treaty of my beſt affected friends, to ſtand for the Proctourſhip, to which I and my Col<g ref="char:EOLhyphen"/>league, Maſter <hi>Bea<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>blocke</hi> of <hi>Exeter</hi> Colledge, were quietly elected in the yeare 1569. with<g ref="char:EOLhyphen"/>out any competion or counterſuite of any o<g ref="char:EOLhyphen"/>ther. After this for a long time, I ſupplyed the office of the Vniverſity Oratour, and beſtow<g ref="char:EOLhyphen"/>ed my time in the ſtudy of ſundry faculties, without any inclination to profeſſe any one a<g ref="char:EOLhyphen"/>boue the reſt, inſomuch as at laſt I waxed de<g ref="char:EOLhyphen"/>ſirous to travell beyond the Seas, for attaining to the knowledge of ſome ſpeciall moderne tongues, and for the encreaſe of my experi<g ref="char:EOLhyphen"/>ence in the managing of affaires, being wholly then addicted to employ my ſelfe, and all my cares, in the publique ſervice of the State. My reſolution fully taken I departed out of <hi>England</hi> Anno 1576. and continued very neare foure yeares abroad and that in ſundry parts of <hi>Italy, France,</hi> and <hi>Germany.</hi> A good
+<pb n="5" facs="tcp:114204:5"/>while after my returne, to wit, in the yeare 1585. I was employed by the Queene to <hi>Fre<g ref="char:EOLhyphen"/>dericke</hi> Father to the preſent King of <hi>Den<g ref="char:EOLhyphen"/>marke,</hi> to <hi>Iulius</hi> Duke of <hi>Brunſwicke,</hi> to <hi>VVilli<g ref="char:EOLhyphen"/>am Landgrave</hi> of <hi>Heſſe,</hi> and other <hi>German</hi> Princes: the effect of my meſſage was, to draw them to joine their forces with hers, for giving aſſiſtance to the King of <hi>Navarre</hi> now <hi>Henry</hi> the fourth King of <hi>France.</hi> my next employment was to <hi>Henry</hi> the third, at ſuch time as he was forced by the Duke of <hi>Guiſe</hi> to fly out of <hi>Paris;</hi> which I performed in ſuch ſort, as I had in charge with extraordi<g ref="char:EOLhyphen"/>nary ſecrecy: not being accompanied with a<g ref="char:EOLhyphen"/>ny one ſervant (for ſo much I was command<g ref="char:EOLhyphen"/>ed) nor with any other Letters, then ſuch as were written with the Queenes owne hand, to the King, and ſome ſelected perſons about him; the effect of that meſſage it is fit I ſhould conceale. But it tended greatly to the advan<g ref="char:EOLhyphen"/>tage, not onely of the King, but of all the Pro<g ref="char:EOLhyphen"/>teſtants in <hi>France,</hi> &amp; to the Dukes apparent o<g ref="char:EOLhyphen"/>verthrow, which alſo followed ſoon upon it. It ſo befell after this, in the year 88. that for the better conduct of her Highneſſe affaires in the Provinces united, I was thought a fit perſon
+<pb n="6" facs="tcp:114204:6"/>to reſide in thoſe parts, and was ſent thereup<g ref="char:EOLhyphen"/>on to the <hi>Hague</hi> in <hi>Holland,</hi> where according to the contract that had formerly paſt, be<g ref="char:EOLhyphen"/>tweene her Highneſſe and the States, I was admitted for one of their Councell of Eſtate, taking place in their Aſſemblies next to Count <hi>Maurice,</hi> and yeilding my ſuffrage in all that was propoſed. During all that time what ap<g ref="char:EOLhyphen"/>probation was given of my painefull endea<g ref="char:EOLhyphen"/>vours by the Queene, Lords in <hi>England,</hi> by the States of the Country there, and by all the Engliſh Souldiery, I referre it to be notified by ſome others relation; ſith it was not un<g ref="char:EOLhyphen"/>knowne to any of any calling, that then were acquainted with the State of that govern<g ref="char:EOLhyphen"/>ment. For at my firſt comming thither, the people of that Country ſtood in dangerous termes of diſcontentment, partly for ſome courſes that were held in <hi>England,</hi> as they thought, to their ſingular prejudice, but moſt of all in reſpect of the inſolent demeanour of ſome of her Highneſſe Miniſters, which one<g ref="char:EOLhyphen"/>ly reſpected their private emolument, little weighing in their dealing what the Queene had contracted with the States of the Coun<g ref="char:EOLhyphen"/>try; whereupon was conceived a mighty feare
+<pb n="7" facs="tcp:114204:6"/>on every ſide, that both a preſent diſſolution of the Contract would enſue, and a downright breach of amity betweene us and them. Now what meanes I ſet a foot for redreſſe of thoſe perils, and by what degrees the ſtate of things was reduced into order, it would require a long treatiſe to report it exactly; but this I may averre with modeſty and truth, and the Country did alwaies acknowledge it with gratitude, that had I not of my ſelfe, without any direction from my Superiours, proceed<g ref="char:EOLhyphen"/>ed in my charge with extreame circumſpecti<g ref="char:EOLhyphen"/>on, as well in all my ſpeeches and propoſalls to the States, as in the tenour of my letters that I writ into <hi>England,</hi> ſome ſuddaine a<g ref="char:EOLhyphen"/>larme had beene given, to the utter ſubverſi<g ref="char:EOLhyphen"/>on and ruine of the State of thoſe Provinces: which in proceſſe of time muſt needs have wrought in all probability, the ſelf-ſame ef<g ref="char:EOLhyphen"/>fect in the ſtate of this Realme. Of this my di<g ref="char:EOLhyphen"/>ligence and care in the managing of my buſi<g ref="char:EOLhyphen"/>nes, there was, as I have ſignified, very ſpeci<g ref="char:EOLhyphen"/>all notice taken by the Queene and State at home, for which I received from her Majeſty many comfortable Letters of her gracious ac<g ref="char:EOLhyphen"/>ceptance: as withall from that time forward
+<pb n="8" facs="tcp:114204:7"/>I did never receive allmoſt any ſet inſtructi<g ref="char:EOLhyphen"/>ons how to governe my proceedings in her Majeſties occaſions, but the carriage in a man<g ref="char:EOLhyphen"/>ner of all her affaires was left to mee and my direction. Through this my long abſence out of <hi>England,</hi> which wanted very little of five whole yeares, my private eſtate did greatly require my ſpeedy returne, which when I had obtained by interceſſion of friends, and a tedious ſuite, I could enjoy but a while, being ſhortly after enjoyned to repaire to the <hi>Hague</hi> againe. Nevertheleſſe upon a certaine occaſion to deliver unto her ſome ſe<g ref="char:EOLhyphen"/>cret overtures, and of performing thereupon an extraordinary ſervice, I came againe home within leſſe then a Twelve-moneth: and I was no ſooner come, but her Highneſſe em<g ref="char:EOLhyphen"/>bracing the fruit of my diſcoveries, I was pre<g ref="char:EOLhyphen"/>ſently commanded to returne to the States with charge to purſue thoſe affaires to perfor<g ref="char:EOLhyphen"/>mance, which I had ſecretly propoſed; and according to the project which I had concei<g ref="char:EOLhyphen"/>ved, and imparted unto her, all things were concluded and brought to that iſſue that was inſtantly deſired, whereupon I procured my laſt revocation. Now here I can not chooſe
+<pb n="9" facs="tcp:114204:7"/>but in making report of the principall acci<g ref="char:EOLhyphen"/>dents that have fallen unto me in the courſe of my life, but record among the reſt, that from the very firſt day I had no man more to friend among the Lords of the Councell, then was the Lord Treaſurer <hi>Burleigh:</hi> for when occaſion had beene offered of decla<g ref="char:EOLhyphen"/>ring his conceit as touching my ſervice, he would alwaies tell the Queen (which I recei<g ref="char:EOLhyphen"/>ved from her ſelfe &amp; ſome other ear-witneſ<g ref="char:EOLhyphen"/>ſes) that there was not any man in <hi>England</hi> ſo meet as my ſelfe to undergoe the office of the Secretary. And ſithence his ſonne, the preſent Lord Treaſurer, hath ſignified unto me in private conference, that when his father firſt intended to advance him to that place, his purpoſe was withall to make me his Col<g ref="char:EOLhyphen"/>league. But the caſe ſtood thus in my behalf: before ſuch time as I returned from the Pro<g ref="char:EOLhyphen"/>vinces united, which was in the yeare 1597. and likewiſe after my returne, the then Earle of <hi>Eſſex</hi> did uſe mee ſo kindly both by letters and meſſages, and other great tokens of his inward favours to me, that although I had no meaning, but to ſettle in my mind my chiefeſt deſire and dependance upon the
+<pb n="10" facs="tcp:114204:8"/>Lord <hi>Burleigh,</hi> as one that I reputed to be both the beſt able, and therewithall the moſt willing to worke my advancement with the Queene, yet I know not how, the Earle, who ſought by all deviſes to divert her love and liking both from the Father and the Son (but from the Sonne in ſpeciall) to withdraw my affection from the one and the other, and to winne mee altogether to depend upon himſelfe, did ſo often take occaſion to enter<g ref="char:EOLhyphen"/>taine the Queene with ſome prodigall ſpee<g ref="char:EOLhyphen"/>ches of my ſufficiency for a Secretary, which were ever accompanied with words of diſ<g ref="char:EOLhyphen"/>grace againſt the preſent Lord Treaſurer, as neither ſhe her ſelfe, of whoſe favour before I was throughly aſſured, tooke any great pleaſure to preferre me the ſooner, (for ſhe hated his ambition, and would give little countenance to any of his followers) and both the Lord <hi>Burleigh</hi> and his Sonne waxed jealous of my courſes, as if under hand I had beene induced by the cunning and kindneſſe of the Earle of <hi>Eſsex,</hi> to oppoſe my ſelfe a<g ref="char:EOLhyphen"/>gainſt their dealings. And though in very truth they had no ſolid ground at all of the leaſt alteration in my diſpoſition towards ei<g ref="char:EOLhyphen"/>ther
+<pb n="11" facs="tcp:114204:8"/>of them both, (for I did greatly reſpect their perſons and places, with a ſetled reſolu<g ref="char:EOLhyphen"/>tion to doe them any ſervice, as alſo in my heart I deteſted to be held of any faction whatſoever) yet the now Lord Treaſurer, upon occaſion of ſome talke, that I have ſince had with him, of the Earle and his actions, hath freely confeſſed of his owne accord un<g ref="char:EOLhyphen"/>to me, that his daily provocations were ſo bit<g ref="char:EOLhyphen"/>ter and ſharpe againſt him, and his compati<g ref="char:EOLhyphen"/>ſons ſo odious, when he put us in a ballance, as he thought thereupon he had very great reaſon to uſe his beſt meanes, to put any man out of hope of raiſing his fortune, whom the Earle with ſuch violence, to his extreame pre<g ref="char:EOLhyphen"/>judice, had endeavoured to dignifie. And this, as he affirmed, was all the motive he had to ſet himſelfe againſt me, in whatſoever might redound to the bettering of my eſtate, or in<g ref="char:EOLhyphen"/>creaſing of my credit and countenance with the Queene. When I had throughly now be<g ref="char:EOLhyphen"/>thought me, firſt in the Earle, of the ſlender hold-faſt that he had in the favour of the Queene, of an endleſſe oppoſition of the chei<g ref="char:EOLhyphen"/>feſt of our Stateſ-men like ſtill to waite upon him, of his perillous, and feeble, and uncertain
+<pb n="12" facs="tcp:114204:9"/>advice, aſwell in his owne, as in all the cauſes of his friends: and when moreover for my ſelfe I had fully conſidered how very unto<g ref="char:EOLhyphen"/>wardly theſe two Counſellours were affected unto me, (upon whom before in cogitation I had framed all the fabrique of my future pro<g ref="char:EOLhyphen"/>ſperity) how ill it did concurre with my na<g ref="char:EOLhyphen"/>turall diſpoſition, to become, or to be counted either a ſtickler or partaker in any publique faction, how well I was able, by God's good bleſſing, to live of my ſelfe, if I could be con<g ref="char:EOLhyphen"/>tent with a competent livelyhood; how ſhort time of further life I was then to expect by the common courſe of nature when I had, I ſay, in this manner repreſented to my thoughts my particular eſtate, together with the Earles, I reſolved thereupon to poſſeſſe my ſoule in peace all the reſidue of my daies, to take my full farewell of State imployments, to ſatisfie my mind with that mediocrity of worldly li<g ref="char:EOLhyphen"/>ving that I had of my owne, and ſo to retire me from the Court, which was the epilogue and end of all my actions and endeavours of any important note, till I came to the age of fifty three. Now although after this, by her Majeſtie's direction, I was often called to the
+<pb n="13" facs="tcp:114204:9"/>Court, by the now Lord Treaſurer, then Se<g ref="char:EOLhyphen"/>cretary, and required by him, as alſo divers times ſince, by order from the King, to ſerve as Embaſſadour in <hi>France;</hi> to goe a Commiſſio<g ref="char:EOLhyphen"/>ner from his Highneſſe, for concluding the truce betweene <hi>Spaine</hi> and the <hi>Provinces,</hi> and to negotiate in other very honourable im<g ref="char:EOLhyphen"/>ployments, yet I would not be removed from my former finall reſolution, inſomuch as at length, to induce me the ſooner to returne to the Court, I had an offer made me by the pre<g ref="char:EOLhyphen"/>ſent Lord Treaſurer (for in proceſſe of time he ſaw, as he himſelfe was pleaſed to tell me more then once, that all my dealing was up<g ref="char:EOLhyphen"/>right, faithfull, and direct) that in eaſe I my ſelfe were willing unto it, he would make me his aſſociate in the Secretaries office; And to the intent I might beleive that he intended it <hi>Bonâ fide,</hi> he would get me out of hand to be ſworne of the Counſell. And for the better enabling of my ſtate to maintaine ſuch a dig<g ref="char:EOLhyphen"/>nity, whatſoever I would aske, that might be fit for him to deale in, and for me to enjoy, he would preſently ſollicite the King to give it paſſage. All which perſwaſions notwith<g ref="char:EOLhyphen"/>ſtanding, albeit I was often aſſaulted by him,
+<pb n="14" facs="tcp:114204:10"/>in regard of my yeares, and for that <hi>I</hi> felt my ſelfe ſubject to many indiſpoſitions, beſides ſome other private reaſons which <hi>I</hi> reſerve un<g ref="char:EOLhyphen"/>to my ſelfe, <hi>I</hi> have continued ſtill at home, my retired courſe of life, which is now methinks to me as the greateſt preferment that the State can afford. Onely this <hi>I</hi> muſt truly confeſſe of my ſelfe, that though <hi>I</hi> did never repent me yet of thoſe and ſome other my often refuſalls of honourable offers, in reſpect of enriching my private eſtate, yet ſomewhat more of late <hi>I</hi> have blamed my ſelfe, &amp; my nicety that way, for the love that I beare to my Reverend Mo<g ref="char:EOLhyphen"/>ther the Vniverſity of <hi>Oxford,</hi> and to the ad<g ref="char:EOLhyphen"/>vancement of her good, by ſuch kind of means as <hi>I</hi> have ſince undertaken. For thus I fell to di<g ref="char:EOLhyphen"/>ſcourſe and debate in my mind, that although I might find it fitteſt for me, to keep out of the throng of Court contentions, &amp; addreſſe my thoughts &amp; deeds to ſuch ends altogether, as <hi>I</hi> my ſelfe could beſt affect; yet withall <hi>I</hi> was to think, that my duty towards God, the expecta<g ref="char:EOLhyphen"/>tion of the world, my naturall inclination, &amp; very morality, did require, that I ſhould not wholly ſo hide thoſe little abilities that I had, but that in ſome meaſure, in one kind or other,
+<pb n="15" facs="tcp:114204:10"/>I ſhould doe the true part of a profitable mem<g ref="char:EOLhyphen"/>ber in the State: whereupon examining exactly for the reſt of my life, what courſe <hi>I</hi> might take, and having ſought (as I thought, all the waies to the wood) to ſelect the moſt proper, I conclu<g ref="char:EOLhyphen"/>ded at the laſt to ſet up my Staffe at the Library doore in <hi>Oxford;</hi> being throughly perſwaded, that in my ſolitude and ſurceaſe from the Com<g ref="char:EOLhyphen"/>mon-wealth affaires, I could not buſy my ſelfe to better purpoſe, then by reducing that place (which then in every part lay ruined and waſt) to the publique uſe of Students; For the effecting whereof, I found my ſelfe furniſhed in a competent proportion, of ſuch foure kindes of aides, as unleſſe I had them all, there was no hope of good ſucceſſe. For without ſome kinde of knowledge, as well in the learned and mo<g ref="char:EOLhyphen"/>derne tongues, as in ſundry other ſorts of ſcho<g ref="char:EOLhyphen"/>laſticall literature, without ſome purſe-ability to goe through with the charge, without very great ſtore of honourable friends to further the deſigne, and without ſpeciall good leiſure to fol<g ref="char:EOLhyphen"/>low ſuch a worke, it could but have proved a vaine attempt, and inconſiderate. But how well <hi>I</hi> have ſped in all my endeavours, and how full proviſion <hi>I</hi> have made for the benefit and eaſe
+<pb n="16" facs="tcp:114204:11"/>of all frequenters of the Library, that which <hi>I</hi> have already performed in ſight, that beſides which <hi>I</hi> have given for the maintenance of it, and that which hereafter <hi>I</hi> purpoſe to adde, by way of enlargement to that place (for the pro<g ref="char:EOLhyphen"/>ject is caſt, and whether <hi>I</hi> live or dye it ſhall be, God willing, put in full execution) will teſtifie ſo truly and aboundantly for me, as <hi>I</hi> need not be the publiſher of the dignity and worth of mine owne Inſtitution. <hi>Written with my owne hand Anno</hi> 1609. <hi>December the</hi> 15.</p>
+            <closer>
+               <signed>THO: BODLEY.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <p>Thus farre our Noble Author of himſelfe. Who like to the firſt Pen-man of the ſacred hiſtory, ſeemes to ſurvive his grave, and to deſcribe unto us his owne death. For having fi<g ref="char:EOLhyphen"/>niſhed that great worke which future times ſhall ever honour, never equall, he yeilded to his fate. As being unwilling the glo<g ref="char:EOLhyphen"/>ry of that deed ſhould be deflour'd by the ſucceſſion of an act leſſe high then it. On the 29<hi>
+                  <hi rend="sup">th</hi>
+               </hi> of Ianuary in the yeare, 1612. his pure Soule attain'd the freedome of its owne divinity: leaving his borrow'd earth, the ſad remainder of innocence and frailty, to be depoſited in <hi>Merton</hi> Colledge: Who had the happineſſe to call his Education hers, and to be intruſted with ſo deare a Pledge of immortality.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
